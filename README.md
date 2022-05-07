@@ -21,7 +21,7 @@
   <img align="center" alt="Maurycio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maurycio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maurycio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="right" alt="Maurycio-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1B_uB1_L6oHmF_5U9ADwTrIfh0pEFxv8u/view?usp=sharing">
+  <img align="right" alt="Maurycio-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/689803335544733794/972619159231938600/WDA_0014_MAURYCIO.jpg">
 </div>
 
 ##
