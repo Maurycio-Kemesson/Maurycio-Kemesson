@@ -1,4 +1,4 @@
-## Olá! Eu sou o Maurycio Kemesson
+## Olá! Eu sou o Maurycio Kemesson (Perfil em construção)
 
 - 🔭 Hoje trabalho com Front-end (Flutter)
 - 🌱 Estudando atualmente Back-end (C#)
