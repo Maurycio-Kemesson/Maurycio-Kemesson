@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Maurycio Kemesson
 
 - 🔭 Atualmente trabalho como desenvolvedor mobile pleno (Flutter)
-- 🌱 Estudando atualmente Back-end (C#)
 - 😄 Pronouns: ele/dele
 - 🎇 "Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, pois a persistência é amiga da conquista. Se você quer chegar aonde a maioria não chega, faça o que a maioria não faz" (Bill Gates). 
 
